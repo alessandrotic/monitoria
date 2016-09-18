@@ -1,0 +1,23 @@
+app
+arquivos.txt
+bin
+config
+config.ru
+db
+descricao.txt
+Diagrama de Classe.pdf
+Gemfile
+Gemfile.lock
+lib
+log
+monitoria
+Monitoria.asta
+Monitoria.asta.bak
+Monitoria.asta.lock
+public
+Rakefile
+README.md
+README.rdoc
+test
+tmp
+vendor
